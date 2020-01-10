@@ -1,0 +1,137 @@
+Venue Name,Category,Rating,Venue ID
+1. Big Ben (Elizabeth Tower),Monument / Landmark,9.3,4ac518cef964a520f6a520e3
+2. The London Eye,Scenic Lookout,9.2,4ac518cef964a52021a620e3
+3. Trafalgar Square,Plaza,9.2,4ac518cef964a520f9a520e3
+4. Tower of London,Castle,9.2,4ac518cef964a520f7a520e3
+5. Westminster Abbey,Church,9.2,4ac518cdf964a520eea520e3
+6. British Museum,History Museum,9.4,4ac518d2f964a5203da720e3
+7. St Paul's Cathedral,Church,9.2,4ac518cef964a520f5a520e3
+8. Tower Bridge,Bridge,9.5,4ac518cef964a520f8a520e3
+9. Buckingham Palace,Palace,8.7,4abe4502f964a520558c20e3
+10. Piccadilly Circus,Plaza,9,4c9c6a059c48236a1cb14dee
+11. Covent Garden Market,Shopping Plaza,9.3,4ba6419bf964a520b23f39e3
+12. Madame Tussauds,Museum,8.7,4ac518cef964a520fca520e3
+13. Apple Covent Garden,Electronics Store,9,4c48305e96abd13aa25e7301
+14. Natural History Museum,Science Museum,9.2,4ac518cdf964a520e8a520e3
+15. Science Museum,Science Museum,NaN,4ac518cdf964a520e8a520e3
+16. Royal Albert Hall,Concert Hall,9.5,4ac518e8f964a52075ab20e3
+17. Hyde Park,Park,9.6,4ac518d2f964a52026a720e3
+18. London King's Cross Railway Station (KGX),Train Station,8,4af33684f964a520c7eb21e3
+19. Dominion Theatre,Theater,NaN,4af33684f964a520c7eb21e3
+20. Portobello Road,Road,8.7,4b6ecaa7f964a520bbca2ce3
+21. Portobello Road Market,Market,8.9,4acaf933f964a52031c320e3
+22. Abbey Road Studios,Recording Studio,8.8,4ac518d0f964a520aaa620e3
+23. London Bridge,Bridge,NaN,4ac518d0f964a520aaa620e3
+24. Founder's Arms,Pub,8.3,4ac518bef964a52010a320e3
+25. The Travel Bookshop,Bookstore,NaN,4ac518bef964a52010a320e3
+26. The Anchor,Pub,7.5,4ac518bef964a520faa220e3
+27. The London Beatles Store,Gift Shop,7.3,4b96a1a9f964a52019da34e3
+28. Greenwich Park,Park,9.6,4bc9d8eb937ca593e96aa692
+29. Royal Observatory,Observatory,8.5,4ac518cef964a5203aa620e3
+30. Hampton Court Palace,Palace,9.3,4bfd867ee9309521751462ab
+31. Regent's Park,Park,9.6,4b233922f964a520785424e3
+32. Oxford Street,Road,NaN,4b233922f964a520785424e3
+33. Leicester Square,Plaza,8.7,4ac518d1f964a520c3a620e3
+34. Stonehenge,Historic Site,8.7,4baca654f964a520c7003be3
+35. Victoria and Albert Museum (V&A),Art Museum,9.4,4ae2d9f8f964a5208d8f21e3
+36. St James's Park,Park,9.5,4ac518cdf964a520f2a520e3
+37. Green Park,Park,9.3,4b96b2bbf964a520c2de34e3
+38. Alice's,Antique Shop,8.2,4e295742149554c774424775
+39. The Ritz London,Hotel,9,4bb44578643cd13ab492395c
+40. Harrods,Department Store,9,4abf8c03f964a520079120e3
+41. Alice's Shop,Gift Shop,NaN,4abf8c03f964a520079120e3
+42. Camden Town,Neighborhood,NaN,4abf8c03f964a520079120e3
+43. Waterloo London Underground Station,Metro Station,NaN,4abf8c03f964a520079120e3
+44. Waterloo Bridge,Bridge,NaN,4abf8c03f964a520079120e3
+45. The Drunken Monkey,Bar,NaN,4abf8c03f964a520079120e3
+46. Punch & Judy,Pub,6.8,4bb22b27f964a5209cbf3ce3
+47. The Harp,Pub,8.8,4acf3b84f964a520d0d220e3
+48. Marble Arch,Monument / Landmark,8.8,4bd195aa9854d13a9abff94d
+49. Soho Square,Park,8.7,4ac518cff964a5206ba620e3
+50. Speakers' Corner,Plaza,7.1,4ac518cef964a52001a620e3
+51. Horse Guards Parade,Plaza,9,4ac518cdf964a520f0a520e3
+52. Houses of Parliament,Capitol Building,NaN,4ac518cdf964a520f0a520e3
+53. London St Pancras International Railway Station (STP),Train Station,8.9,4ac518f7f964a520c6af20e3
+54. Peter Pan Statue,Outdoor Sculpture,8.2,4ac518d1f964a52000a720e3
+55. Porterhouse,Irish Pub,8.3,4ac518c3f964a5203ca420e3
+56. Westminster Cathedral,Church,NaN,4ac518c3f964a5203ca420e3
+"57. Royal Botanic Gardens, Kew",Botanical Garden,9.5,4ac518cef964a52002a620e3
+58. Ministry of Sound,Nightclub,8.2,4ac518b9f964a520bba120e3
+59. Millennium Bridge,Bridge,NaN,4ac518b9f964a520bba120e3
+60. Hard Rock Cafe London,American Restaurant,8.6,4ac518b9f964a520b0a120e3
+61. Jamie's Italian,Italian Restaurant,NaN,4ac518b9f964a520b0a120e3
+62. Shakespeare's Globe Theatre,Theater,NaN,4ac518b9f964a520b0a120e3
+63. The Icecreamists,Ice Cream Shop,NaN,4ac518b9f964a520b0a120e3
+64. Tate Modern,Art Museum,9.2,4ac518d3f964a52076a720e3
+65. Imperial War Museum,History Museum,9,4ac518d3f964a52078a720e3
+66. The Lamb & Flag,Pub,8.5,4ac518c3f964a52038a420e3
+67. Wembley Stadium,Stadium,8.9,4b03382df964a520a74d22e3
+68. The O2 Arena,Music Venue,8.8,4ac518eaf964a52007ac20e3
+69. Chinatown,Neighborhood,NaN,4ac518eaf964a52007ac20e3
+70. 10 Downing Street,Government Building,NaN,4ac518eaf964a52007ac20e3
+71. Sea Life London Aquarium,Aquarium,7.2,4bdd45a2645e0f47f3346b19
+72. The Monument,Monument / Landmark,8.4,4b431692f964a52022dc25e3
+73. OXO Tower,Building,8,4b3e2de8f964a5203c9925e3
+74. M&M's World,Candy Store,8.4,4d5ed23c149637047e12cf94
+75. Queen's House,Art Gallery,8,4ac518d1f964a520bda620e3
+76. Gordon Ramsay at Claridge's,Restaurant,NaN,4ac518d1f964a520bda620e3
+77. Barbican Centre,Performing Arts Venue,9.3,4ac518d3f964a5204da720e3
+78. Forbidden Planet,Comic Shop,9.1,4ac7998af964a5205bb820e3
+79. Platform 9¾,General Entertainment,8,4b114284f964a520657923e3
+80. London Stadium,Stadium,8.8,4b34b457f964a520532825e3
+81. London 2012 OMEGA Countdown Clock,Other Great Outdoors,NaN,4b34b457f964a520532825e3
+82. Mercedes-Benz World,Auto Dealership,8.6,4b79796df964a5204bfb2ee3
+83. Wellington Arch,Monument / Landmark,8.4,4ac518d0f964a52092a620e3
+84. National Gallery,Art Museum,NaN,4ac518d0f964a52092a620e3
+85. Saatchi Gallery,Art Gallery,9.3,4adf4587f964a520f87821e3
+86. Warner Bros. Studio Tour London - The Making of Harry Potter,General Entertainment,9.6,4bb88766314e9521aa7f489d
+87. Westfield London,Shopping Mall,8.8,4ad08b28f964a52064d820e3
+88. The Mayflower,Pub,9.2,4b926c3af964a52068f833e3
+89. Baker Street London Underground Station,Metro Station,NaN,4b926c3af964a52068f833e3
+90. Royal Opera House,Opera House,9.3,4ac518e8f964a5207fab20e3
+91. Windsor Castle,Castle,9.3,4ba294bdf964a520460638e3
+92. Tate Britain,Art Museum,9.2,4ac51183f964a52049a020e3
+93. The Queen's Head,Pub,8.5,4c4cbea0172b76b0fabe07d1
+94. The Craft Beer Co.,Beer Bar,8.6,4debea52b3ad083a33d2bef3
+95. BrewDog Camden,Beer Bar,8.9,4edce907c2ee3cd644c79c65
+96. Borough Market,Farmers Market,NaN,4edce907c2ee3cd644c79c65
+97. Ronnie Scott's Jazz Club,Jazz Club,9.3,4ac518b9f964a520baa120e3
+98. ZSL London Zoo,Zoo,8.4,4ac51183f964a52048a020e3
+99. The Salisbury,Pub,7.3,4ac518baf964a520d4a120e3
+100. Hamleys,Toy / Game Store,8.8,4ac518ecf964a52078ac20e3
+101. Covent Garden,Neighborhood,NaN,4ac518ecf964a52078ac20e3
+102. Little Venice,Neighborhood,NaN,4ac518ecf964a52078ac20e3
+103. Westminster Bridge,Bridge,NaN,4ac518ecf964a52078ac20e3
+104. The Mall,Road,NaN,4ac518ecf964a52078ac20e3
+105. HMS Belfast (C35),History Museum,8.4,4ac518cef964a520faa520e3
+106. The London Dungeon,General Entertainment,7.9,4ac518cef964a520fba520e3
+107. Regent Street,Road,NaN,4ac518cef964a520fba520e3
+108. Museum of London,History Museum,8.7,4ac518d2f964a5203ca720e3
+109. Design Museum,Art Museum,NaN,4ac518d2f964a5203ca720e3
+110. Ambassadors Theatre,Theater,8.1,4ac518e8f964a5208aab20e3
+111. Camden Lock Market,Market,9.1,4ac518f4f964a520fbae20e3
+112. Royal Academy of Arts,Art Museum,9.2,4ac518d3f964a52067a720e3
+113. Monmouth Coffee Company,Coffee Shop,9.2,4ac518edf964a520c1ac20e3
+114. Lock Tavern,Bar,8.4,4ad8c955f964a520a01421e3
+115. Canary Wharf,Neighborhood,NaN,4ad8c955f964a520a01421e3
+116. Sloane Square,Plaza,8.9,4ad771a8f964a520890a21e3
+117. The Tattershall Castle,Pub,7.6,4ad12f23f964a52054dd20e3
+118. Apollo Victoria Theatre,Theater,9,4b5b1c6df964a520dae328e3
+119. National Portrait Gallery,Art Gallery,NaN,4b5b1c6df964a520dae328e3
+120. Stamford Bridge,Soccer Stadium,8.6,4b0c1159f964a520633623e3
+121. Emirates Stadium,Soccer Stadium,8.8,4ac518e9f964a520d4ab20e3
+122. Nobu,Japanese Restaurant,8.9,4ac518d6f964a52050a820e3
+123. Barbican Art Gallery,Art Gallery,9.2,4c1cd32bb306c928426b64b7
+124. Hawksmoor Guildhall,Steakhouse,8.7,4e9d32995503b4a7c128d043
+125. Churchill War Rooms (Churchill Museum & Cabinet War Rooms),Historic Site,9.1,4ac518d3f964a52077a720e3
+126. The Churchill Arms,Pub,8.9,4ee61a462da504839760f8e0
+127. The Sherlock Holmes Museum,Museum,8.2,4ac518d3f964a52054a720e3
+128. Berkeley Square,Plaza,8.7,4bfa6d138f32ef3bc5e004aa
+129. The Serpentine,Lake,NaN,4bfa6d138f32ef3bc5e004aa
+130. Selfridges & Co,Department Store,9.4,4ae5b238f964a52087a121e3
+131. Camden Stables Market,Market,NaN,4ae5b238f964a52087a121e3
+132. Maze Grill,Steakhouse,7.8,4ac518e4f964a520dbaa20e3
+133. Hawksmoor Seven Dials,Steakhouse,9.1,4cbebbee97bc721eff208167
+134. Oxford Circus,Intersection,NaN,4cbebbee97bc721eff208167
+135. London Transport Museum,History Museum,8.8,4ac518cdf964a520eca520e3
+136. Maravilhas do Lar,Miscellaneous Shop,8.2,52f643d5498e9c669f6714b1
